@@ -1,1 +1,7 @@
-
+{
+  "sfera": {
+    "wallpaper": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/wallpaper/sfera/sfera_wallpaper.png",
+    "logo": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/sfera_logo.png",
+    "banner": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/banners/sfera_banner.png"
+  }
+}
