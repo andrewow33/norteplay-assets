@@ -1,1 +1,32 @@
+{
+  "name": "Norte Play",
+  "version": "1.0.0",
+  "status": "online",
 
+  "playlist": {
+    "nome": "Lista Principal",
+    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/lista/chamego/Lista_Padrao_NortePlay_Base.m3u"
+  },
+
+  "logos": {
+    "baseUrl": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/"
+  },
+
+  "wallpaper": {
+    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/wallpaper/chamego.png"
+  },
+
+  "epg": {
+    "url": ""
+  },
+
+  "mensagem": {
+    "titulo": "",
+    "texto": ""
+  },
+
+  "app": {
+    "atualizacaoObrigatoria": false,
+    "ultimaVersao": "1.0.0"
+  }
+}
