@@ -11,10 +11,5 @@
     "banner": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/banners/chamego_banner.png"
   }
 
-   "canais": {
-    "wallpaper": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/wallpaper/canais/canais_wallpaper.png",
-    "18": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/18.png",
-    "globo": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/globo.png",
-    "banner": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/banners/canais_banner.png"
-  }
+   
 }
