@@ -29,6 +29,10 @@
     "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/banners/nobre/nobre_banner.png"
   },
 
+   "screensaver": {
+    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/screensaver/nobre/nobre_screensaver.png"
+  },
+
   "mensagem": {
     "titulo": "Bem Vindo",
     "texto": "Aproveite a Estadia."
