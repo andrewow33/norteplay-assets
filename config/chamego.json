@@ -1,1 +1,36 @@
+{
+  "cliente": {
+    "id": "chamego",
+    "nome": "Pousada Chamego"
+  },
 
+  "status": "online",
+
+  "versao": "1.0.0",
+
+  "playlist": {
+    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/lista/chamego/chamego_norteplay.m3u"
+  },
+
+  "epg": {
+    "url": ""
+  },
+
+  "logos": {
+    "baseUrl": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/chamego",
+    "logoCliente": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/chamego/chamego.png"
+  },
+
+  "wallpaper": {
+    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/wallpaper/chamego/chamego.png"
+  },
+
+  "banner": {
+    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/banners/chamego/chamego.png"
+  },
+
+  "mensagem": {
+    "titulo": "Bem Vindo",
+    "texto": "Aproveite sua estadia."
+  }
+}
