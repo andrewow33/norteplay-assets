@@ -28,6 +28,10 @@
   "banner": {
     "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/banners/sfera0/sfera0.png"
   },
+  
+   "screensaver": {
+    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/screensaver/sfera0/sfera0_screensaver.png"
+  },
 
   "mensagem": {
     "titulo": "Bem Vindo",
