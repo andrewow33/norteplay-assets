@@ -1,15 +1,19 @@
 {
-  "sfera": {
-    "wallpaper": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/wallpaper/sfera/sfera_wallpaper.png",
-    "logo": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/sfera_logo.png",
-    "banner": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/banners/sfera_banner.png"
-  }
-
-  "chamego": {
-    "wallpaper": "",
-    "logo": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/chamego_logo.png",
-    "banner": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/banners/chamego_banner.png"
-  }
-
-   
+  "clientes": [
+    {
+      "id": "sfera0",
+      "nome": "Sfera Motel",
+      "config": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/config/sfera0.json"
+    },
+    {
+      "id": "chamego",
+      "nome": "Chamego Pousada",
+      "config": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/config/chamego.json"
+    },
+    {
+      "id": "nobre",
+      "nome": "Nobre Motel",
+      "config": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/config/dreams.json"
+    }
+  ]
 }
