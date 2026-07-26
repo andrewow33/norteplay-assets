@@ -1,1 +1,119 @@
+#EXTM3U
+# ===== GLOBO AMAZONAS=====
 
+#EXTINF:-1 tvg-id="1" tvg-name="GLOBO REDE AMAZONICA" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/globo.png" group-title="GLOBO NORTE",GLOBO
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3W31atCfnApsEaNNDgmDoAY
+
+
+# ===== BAND AMAZONAS =====
+
+#EXTINF:-1 tvg-id="2" tvg-name="BAND" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/band.png" group-title="BAND",BAND
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3XFQ2Uk0ws-lyRiQYMmMUUM
+
+# ===== SBT AMAZONAS =====
+#EXTINF:-1 tvg-id="3" tvg-name="SBT" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/sbt.png" group-title="SBT",SBT
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3ZcQxGdd2KxXB6ELSbbZpBw
+
+# ===== RECORD AMAZONAS =====
+#EXTINF:-1 tvg-id="4" tvg-name="RECORD" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/record.png" group-title="RECORD",RECORD
+http://blackx.top:80/64134080/20729296/14695
+
+
+# ===== REDE TV =====
+#EXTINF:-1 tvg-id="5" tvg-name="REDE TV" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/rede-tv.png" group-title="ABERTOS",REDE TV
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3WORyW0PYZ1OSWvYr0dULqA
+
+
+# ===== ESPORTES =====
+#EXTINF:-1 tvg-id="6" tvg-name="SPORTV 1" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/sportv.png" group-title="ESPORTES",SPORTV 1
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3QJHMizw6Lr_KvWeMyabY3k
+
+#EXTINF:-1 tvg-id="7" tvg-name="SPORTV 2" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/sportv2.png" group-title="ESPORTES",SPORTV 2
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3a0EADBAumX4ONAKo3o0FoA
+
+#EXTINF:-1 tvg-id="8" tvg-name="SPORTV 3" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/sportv3.png" group-title="ESPORTES",SPORTV 3
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3cKdX7iNZftFOsWcHvo828E
+
+#EXTINF:-1 tvg-id="9" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/espn.png" group-title="ESPN",ESPN
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3YzckasMA6q6eXZSnPdNNuM
+
+#EXTINF:-1 tvg-id="10" tvg-name="PREMIERE CLUBES" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/premiere.png" group-title="PREMIERE",PREMIERE CLUBES
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3X52FKAJIbK7R68NJPGksy8
+
+#EXTINF:-1 tvg-id="18" tvg-name="COMBATE" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/combate.png" group-title="ESPORTES",COMBATE
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3TI7uCjr_ui_67vNnI5im-4
+
+#EXTINF:-1 tvg-id="19" tvg-name="UFC FIGHT PASS" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/ufc.png" group-title="PPV LUTAS",UFC FIGHT PASS
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3fkKCP-FKnsBzywacI5Ab4Y
+
+
+# ===== NOTICIAS =====
+#EXTINF:-1 tvg-id="20" tvg-name="GLOBO NEWS" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/globo-news.png" group-title="NOTICIAS",GLOBO NEWS
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3SeMP0dwDRjytC8cJqCIW5I
+
+#EXTINF:-1 tvg-id="21" tvg-name="CNN BRASIL" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/cnn.png" group-title="NOTICIAS",CNN BRASIL
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3YFcfKqh7ZKeFp5RalhpB6s
+
+#EXTINF:-1 tvg-id="22" tvg-name="BAND NEWS" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/band-news.png" group-title="NOTICIAS",BAND NEWS
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3Tv_kuhJ61GOOz6r0E8XJg4
+
+#EXTINF:-1 tvg-id="23" tvg-name="RECORD NEWS" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/record-news.png" group-title="NOTICIAS",RECORD NEWS
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3SQGgy8BMNwwOAtWM35t2PE
+
+# ===== HBO =====
+#EXTINF:-1 tvg-id="24" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/hbo.png" group-title="HBO",HBO
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3ZXdQAZOAKA7RYi0QLCka6g
+
+# ===== FILMES E SERIES =====
+#EXTINF:-1 tvg-id="25" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/tnt.png" group-title="FILMES E SERIES",TNT
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3TqOKEnl40qD7UdIP1Cb-f4
+
+#EXTINF:-1 tvg-id="26" tvg-name="WARNER CHANNEL" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/warner-bros-pictures.png" group-title="FILMES E SERIES",WARNER CHANNEL
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3ZZuIQ6c5_OdI37F0kBjzUU
+
+#EXTINF:-1 tvg-id="27" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/studio-universal.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3X6AahC6W5gdNg7bRkDTQ2Y
+
+#EXTINF:-1 tvg-id="28" tvg-name="PARAMOUNT" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/paramount.png" group-title="FILMES E SERIES",PARAMOUNT
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3UBWzNR34grrIOtE2cwuBO0
+
+#EXTINF:-1 tvg-id="29" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/axn.png" group-title="FILMES E SERIES",AXN
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3T2SiBqCYwnk6TbsDO-NB9k
+
+#EXTINF:-1 tvg-id="30" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/amc.png" group-title="FILMES E SERIES",AMC
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3fo-_WYimhtJQtE3wLQ3OY4
+
+#EXTINF:-1 tvg-id="31" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/ae-television.png" group-title="FILMES E SERIES",A&E
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3ae5SoTox0lupbUgp3RJ5FE
+
+#EXTINF:-1 tvg-id="32" tvg-name="TELECINE ACTION" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/telecine_action.png" group-title="TELECINE",TELECINE ACTION
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3fFfWmM_lKWNb0AskIi5opQ
+
+#EXTINF:-1 tvg-id="33" tvg-name="TELECINE FUN" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/telecine_fun.png" group-title="TELECINE",TELECINE FUN
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3SsrDnPt6d7y2hG-TIeKvIw
+
+# ===== CANAIS ADULTOS =====
+
+#EXTINF:-1 tvg-id="34" tvg-name="PLAYBOY" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/playboy.png" group-title="XXX: CANAIS ADULTOS",PLAYBOY
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3cON6hXJjqdtfqt7lOFZCCc
+
+#EXTINF:-1 tvg-id="35" tvg-name="PRIVATE" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/private.png" group-title="XXX: CANAIS ADULTOS",PRIVATE
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3b1THv0d_lljW2NYSDhYcNI
+
+#EXTINF:-1 tvg-id="36" tvg-name="SEX PRIVE" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/sexyprive.png" group-title="XXX: CANAIS ADULTOS",SEX PRIVE
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3YbrDLIxxH7brrkS-FO0D2I
+
+#EXTINF:-1 tvg-id="37" tvg-name="SEXTREME" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/sextreme.png" group-title="XXX: CANAIS ADULTOS",SEXTREME
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3WIb7YvGEAvuQ1e8fa96u0g
+
+#EXTINF:-1 tvg-id="38" tvg-name="SEXY HOT" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/sexy-hot.png" group-title="XXX: CANAIS ADULTOS",SEXY HOT
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3dxnuyTQntHYNY_wI_Pjb-4
+
+#EXTINF:-1 tvg-id="39" tvg-name="VENUS" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/venus.png" group-title="XXX: CANAIS ADULTOS",VENUS
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3YfqCg6BWqnIF_7i3EqWuDs
+
+#EXTINF:-1 tvg-id="40" tvg-name="BRASILEIRINHAS" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/brasileirinhas.png" group-title="XXX: CANAIS ADULTOS",BRASILEIRINHAS
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3UkcRkKeLoCmVCUxPQh1YjA
+
+#EXTINF:-1 tvg-id="41" tvg-name="FORMAN" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/forman.png" group-title="XXX: CANAIS ADULTOS",FORMAN
+http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3Un0_daEjSTt6IjJ1atQ4YE
