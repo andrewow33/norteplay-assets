@@ -13,7 +13,12 @@
     {
       "id": "nobre",
       "nome": "Nobre Motel",
-      "config": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/config/dreams.json"
+      "config": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/config/nobre.json"
+    }
+    {
+      "id": "lider",
+      "nome": "Lider Pousada",
+      "config": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/config/lider.json"
     }
   ]
 }
