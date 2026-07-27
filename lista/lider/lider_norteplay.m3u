@@ -26,39 +26,39 @@ http://66.163.113.61:80/4419747/3595165/2383607.ts
 
 # ===== ESPORTES =====
 #EXTINF:-1 tvg-id="6" tvg-name="SPORTV 1" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/sportv.png" group-title="ESPORTES",SPORTV 1
-http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3QJHMizw6Lr_KvWeMyabY3k
+http://66.163.113.61:80/4419747/3595165/2381084.ts
 
 #EXTINF:-1 tvg-id="7" tvg-name="SPORTV 2" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/sportv2.png" group-title="ESPORTES",SPORTV 2
-http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3a0EADBAumX4ONAKo3o0FoA
+http://66.163.113.61:80/4419747/3595165/2381090.ts
 
 #EXTINF:-1 tvg-id="8" tvg-name="SPORTV 3" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/sportv3.png" group-title="ESPORTES",SPORTV 3
-http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3cKdX7iNZftFOsWcHvo828E
+http://66.163.113.61:80/4419747/3595165/2381096.ts
 
 #EXTINF:-1 tvg-id="9" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/espn.png" group-title="ESPN",ESPN
-http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3YzckasMA6q6eXZSnPdNNuM
+http://66.163.113.61:80/4419747/3595165/15425364.ts
 
 #EXTINF:-1 tvg-id="10" tvg-name="PREMIERE CLUBES" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/premiere.png" group-title="PREMIERE",PREMIERE CLUBES
-http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3X52FKAJIbK7R68NJPGksy8
+http://66.163.113.61:80/4419747/3595165/2385564.ts
 
 #EXTINF:-1 tvg-id="18" tvg-name="COMBATE" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/combate.png" group-title="ESPORTES",COMBATE
-http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3TI7uCjr_ui_67vNnI5im-4
+http://66.163.113.61:80/4419747/3595165/9097930.ts
 
 #EXTINF:-1 tvg-id="19" tvg-name="UFC FIGHT PASS" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/ufc.png" group-title="PPV LUTAS",UFC FIGHT PASS
-http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3fkKCP-FKnsBzywacI5Ab4Y
+http://66.163.113.61:80/4419747/3595165/9097917.ts
 
 
 # ===== NOTICIAS =====
 #EXTINF:-1 tvg-id="20" tvg-name="GLOBO NEWS" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/globo-news.png" group-title="NOTICIAS",GLOBO NEWS
-http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3SeMP0dwDRjytC8cJqCIW5I
+http://66.163.113.61:80/4419747/3595165/7010435.ts
 
 #EXTINF:-1 tvg-id="21" tvg-name="CNN BRASIL" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/cnn.png" group-title="NOTICIAS",CNN BRASIL
-http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3YFcfKqh7ZKeFp5RalhpB6s
+http://66.163.113.61:80/4419747/3595165/2381639.ts
 
 #EXTINF:-1 tvg-id="22" tvg-name="BAND NEWS" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/band-news.png" group-title="NOTICIAS",BAND NEWS
-http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3Tv_kuhJ61GOOz6r0E8XJg4
+http://66.163.113.61:80/4419747/3595165/2381636.ts
 
 #EXTINF:-1 tvg-id="23" tvg-name="RECORD NEWS" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/record-news.png" group-title="NOTICIAS",RECORD NEWS
-http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3SQGgy8BMNwwOAtWM35t2PE
+http://66.163.113.61:80/4419747/3595165/2381651.ts
 
 # ===== HBO =====
 #EXTINF:-1 tvg-id="24" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/hbo.png" group-title="HBO",HBO
