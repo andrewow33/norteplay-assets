@@ -1,1 +1,40 @@
+{
+  "cliente": {
+    "id": "lider",
+    "nome": "Lider Pousada"
+  },
 
+  "status": "online",
+
+  "versao": "1.0.0",
+
+  "playlist": {
+    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/lista/lider/lider_norteplay.m3u"
+  },
+
+  "epg": {
+    "url": ""
+  },
+
+  "logos": {
+    "baseUrl": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/lider",
+    "logoCliente": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/lider/lider_logo.png"
+  },
+
+  "wallpaper": {
+    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/wallpaper/lider/lider_wallpaper.png"
+  },
+
+  "banner": {
+    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/banners/lider/lider_banner.png"
+  },
+  
+   "screensaver": {
+    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/screensaver/lider/lider_screensaver.png"
+  },
+
+  "mensagem": {
+    "titulo": "Bem Vindo",
+    "texto": "Aproveite sua estadia."
+  }
+}
