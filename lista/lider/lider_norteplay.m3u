@@ -62,35 +62,32 @@ http://66.163.113.61:80/4419747/3595165/2381651.ts
 
 # ===== HBO =====
 #EXTINF:-1 tvg-id="24" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/hbo.png" group-title="HBO",HBO
-http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3ZXdQAZOAKA7RYi0QLCka6g
+http://66.163.113.61:80/4419747/3595165/2388514.ts
 
 # ===== FILMES E SERIES =====
 #EXTINF:-1 tvg-id="25" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/tnt.png" group-title="FILMES E SERIES",TNT
-http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3TqOKEnl40qD7UdIP1Cb-f4
+http://66.163.113.61:80/4419747/3595165/2064806.ts
 
 #EXTINF:-1 tvg-id="26" tvg-name="WARNER CHANNEL" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/warner-bros-pictures.png" group-title="FILMES E SERIES",WARNER CHANNEL
-http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3ZZuIQ6c5_OdI37F0kBjzUU
+http://66.163.113.61:80/4419747/3595165/2064824.ts
 
 #EXTINF:-1 tvg-id="27" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/studio-universal.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL
-http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3X6AahC6W5gdNg7bRkDTQ2Y
-
-#EXTINF:-1 tvg-id="28" tvg-name="PARAMOUNT" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/paramount.png" group-title="FILMES E SERIES",PARAMOUNT
-http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3UBWzNR34grrIOtE2cwuBO0
+http://66.163.113.61:80/4419747/3595165/2064785.ts
 
 #EXTINF:-1 tvg-id="29" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/axn.png" group-title="FILMES E SERIES",AXN
-http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3T2SiBqCYwnk6TbsDO-NB9k
+http://66.163.113.61:80/4419747/3595165/2064735.ts
 
 #EXTINF:-1 tvg-id="30" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/amc.png" group-title="FILMES E SERIES",AMC
-http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3fo-_WYimhtJQtE3wLQ3OY4
+http://66.163.113.61:80/4419747/3595165/2064728.ts
 
 #EXTINF:-1 tvg-id="31" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/ae-television.png" group-title="FILMES E SERIES",A&E
-http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3ae5SoTox0lupbUgp3RJ5FE
+http://66.163.113.61:80/4419747/3595165/2064719.ts
 
 #EXTINF:-1 tvg-id="32" tvg-name="TELECINE ACTION" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/telecine_action.png" group-title="TELECINE",TELECINE ACTION
-http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3fFfWmM_lKWNb0AskIi5opQ
+http://66.163.113.61:80/4419747/3595165/2388474.ts
 
 #EXTINF:-1 tvg-id="33" tvg-name="TELECINE FUN" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/telecine_fun.png" group-title="TELECINE",TELECINE FUN
-http://lista.pro:80/play/eIdIpWpzGEz4iu6Ifhza3SsrDnPt6d7y2hG-TIeKvIw
+http://66.163.113.61:80/4419747/3595165/2388484.ts
 
 # ===== CANAIS ADULTOS =====
 
