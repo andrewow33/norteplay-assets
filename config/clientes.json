@@ -20,5 +20,10 @@
       "nome": "Lider Pousada",
       "config": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/config/lider.json"
     }
+    {
+      "id": "rio",
+      "nome": "Rio Motel",
+      "config": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/config/rio.json"
+    }
   ]
 }
