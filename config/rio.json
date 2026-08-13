@@ -1,1 +1,40 @@
+{
+  "cliente": {
+    "id": "rio",
+    "nome": "Rio Motel"
+  },
 
+  "status": "online",
+
+  "versao": "1.0.0",
+
+  "playlist": {
+    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/lista/rio/rio_norteplay.m3u"
+  },
+
+  "epg": {
+    "url": ""
+  },
+
+  "logos": {
+    "baseUrl": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/rio",
+    "logoCliente": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/rio/rio_logo.png"
+  },
+
+  "wallpaper": {
+    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/wallpaper/rio/rio_wallpaper.png"
+  },
+
+  "banner": {
+    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/banners/rio/rio.png"
+  },
+  
+   "screensaver": {
+    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/screensaver/rio/rio_screensaver.png"
+  },
+
+  "mensagem": {
+    "titulo": "Bem Vindo",
+    "texto": "Aproveite sua estadia."
+  }
+}
