@@ -75,20 +75,20 @@ http://painelcms.live:80/2700250008/8564091079/101505
 
 # ===== NOTICIAS =====
 #EXTINF:-1 tvg-id="21" tvg-name="GLOBO NEWS" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/globo-news.png" group-title="NOTICIAS",GLOBO NEWS
-http://sprph.fun:80/13443541/38421594/314448.ts
+http://38.58.181.190:80/play/G0Db2K3DGwbok3r6QFhH3Ikl_aTFZSKq858mbI29gXM
 
 #EXTINF:-1 tvg-id="22" tvg-name="CNN BRASIL" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/cnn.png" group-title="NOTICIAS",CNN BRASIL
-http://sprph.fun:80/13443541/38421594/314440.ts
+http://38.58.181.190:80/play/G0Db2K3DGwbok3r6QFhH3NewZcAq4vz7rsNiFx6VW94
 
 #EXTINF:-1 tvg-id="23" tvg-name="BAND NEWS" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/band-news.png" group-title="NOTICIAS",BAND NEWS
-http://sprph.fun:80/13443541/38421594/314462.ts
+http://38.58.181.190:80/play/G0Db2K3DGwbok3r6QFhH3F6Z3cDxvBef7WOa0-RyJc0
 
 #EXTINF:-1 tvg-id="24" tvg-name="RECORD NEWS" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/record-news.png" group-title="NOTICIAS",RECORD NEWS
-http://sprph.fun:80/13443541/38421594/314456.ts
+http://38.58.181.190:80/play/G0Db2K3DGwbok3r6QFhH3MuoBDgQD1QAyH20NAfQ_GM
 
 # ===== HBO =====
 #EXTINF:-1 tvg-id="25" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/hbo.png" group-title="HBO",HBO
-http://sprph.fun:80/13443541/38421594/314805.ts
+http://38.58.181.190:80/play/G0Db2K3DGwbok3r6QFhH3K7agBqU0m0JSgnrZgZIMDA
 
 # ===== FILMES E SERIES =====
 #EXTINF:-1 tvg-id="26" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/tnt.png" group-title="FILMES E SERIES",TNT
