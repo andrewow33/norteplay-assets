@@ -18,21 +18,21 @@
 
   "logos": {
     "baseUrl": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/charm",
-    "logoCliente": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/charm/charm_logo.png"
+    "logoCliente": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/charm/charm_logo.jpg"
   },
 
   "wallpaper": {
-    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/wallpaper/charm/charm_wallpaper.png"
+    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/wallpaper/charm/charm_wallpaper.jpg"
     "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/wallpaper/charm/charm_wallpaper.mp4"
     "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/wallpaper/charm/charm_wallpaper1.mp4"
   },
 
   "banner": {
-    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/banners/charm/charm_banner.png"
+    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/banners/charm/charm_banner.jpg"
   },
   
    "screensaver": {
-    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/screensaver/charm/charm_screensaver.png"
+    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/screensaver/charm/charm_screensaver.jpg"
   },
 
   "mensagem": {
