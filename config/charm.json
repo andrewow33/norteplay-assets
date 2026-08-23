@@ -1,1 +1,42 @@
+{
+  "cliente": {
+    "id": "charm",
+    "nome": "Charm Motel"
+  },
 
+  "status": "online",
+
+  "versao": "1.0.0",
+
+  "playlist": {
+    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/lista/charm/charm.m3u"
+  },
+
+  "epg": {
+    "url": ""
+  },
+
+  "logos": {
+    "baseUrl": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/charm",
+    "logoCliente": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/charm/charm_logo.png"
+  },
+
+  "wallpaper": {
+    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/wallpaper/charm/charm_wallpaper.png"
+    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/wallpaper/charm/charm_wallpaper.mp4"
+    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/wallpaper/charm/charm_wallpaper1.mp4"
+  },
+
+  "banner": {
+    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/banners/charm/charm_banner.png"
+  },
+  
+   "screensaver": {
+    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/screensaver/charm/charm_screensaver.png"
+  },
+
+  "mensagem": {
+    "titulo": "Bem Vindo",
+    "texto": "Aproveite sua estadia."
+  }
+}
