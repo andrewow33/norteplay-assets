@@ -21,6 +21,11 @@
       "config": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/config/lider.json"
     }
     {
+      "id": "Norteplay",
+      "nome": "Norteplay",
+      "config": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/config/norteplay.json"
+    }
+    {
       "id": "rio",
       "nome": "Rio Motel",
       "config": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/config/rio.json"
