@@ -35,5 +35,10 @@
       "nome": "Charm Motel",
       "config": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/config/charm.json"
     }
+    {
+      "id": "charm",
+      "nome": "Charm Motel",
+      "config": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/config/eden.json"
+    }
   ]
 }
