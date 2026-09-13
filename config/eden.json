@@ -1,0 +1,40 @@
+{
+  "cliente": {
+    "id": "eden",
+    "nome": "Eden Pousada"
+  },
+
+  "status": "online",
+
+  "versao": "1.0.0",
+
+  "playlist": {
+    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/lista/eden/eden-norteplay.m3u"
+  },
+
+  "epg": {
+    "url": ""
+  },
+
+  "logos": {
+    "baseUrl": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/eden",
+    "logoCliente": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/eden/eden-logo.png"
+  },
+
+  "wallpaper": {
+    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/wallpaper/eden/eden-wallpaper.mp4"
+  },
+
+  "banner": {
+    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/banners/eden/eden-banner.png"
+  },
+  
+   "screensaver": {
+    "url": "https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/screensaver/eden/eden-screensaver.png"
+  },
+
+  "mensagem": {
+    "titulo": "Bem Vindo",
+    "texto": "Aproveite sua estadia."
+  }
+}
