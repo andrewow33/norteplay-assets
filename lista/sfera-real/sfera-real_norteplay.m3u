@@ -30,26 +30,26 @@ http://edwarecdnlosangels.online:80/movie/78975412/21772741/17143042.mp4
 # ===== GLOBO AMAZONAS=====
 
 #EXTINF:-1 tvg-id="9" tvg-name="GLOBO REDE AMAZONICA" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/globo.png" group-title="CANAIS ABERTOS",GLOBO
-http://sprph.fun:80/13443541/38421594/314158.ts
+http://edwarecdnlosangels.online:80/78975412/21772741/16031373.ts
 
 # ===== BAND AMAZONAS =====
 
 #EXTINF:-1 tvg-id="10" tvg-name="BAND" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/band.png" group-title="CANAIS ABERTOS",BAND
-http://sprph.fun:80/13443541/38421594/314400.ts
+http://edwarecdnlosangels.online:80/78975412/21772741/16024995.ts
 
 # ===== SBT AMAZONAS =====
 
 #EXTINF:-1 tvg-id="11" tvg-name="SBT" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/sbt.png" group-title="CANAIS ABERTOS",SBT
-http://sprph.fun:80/13443541/38421594/314335.ts
+http://edwarecdnlosangels.online:80/78975412/21772741/16025543.ts
 
 # ===== RECORD AMAZONAS =====
 #EXTINF:-1 tvg-id="12" tvg-name="RECORD" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/record.png" group-title="CANAIS ABERTOS",RECORD
-http://sprph.fun:80/13443541/38421594/314340.ts
+http://edwarecdnlosangels.online:80/78975412/21772741/16025493.ts
 
 
 # ===== REDE TV =====
 #EXTINF:-1 tvg-id="13" tvg-name="REDE TV" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/rede-tv.png" group-title="CANAIS ABERTOS",REDE TV
-http://painelcms.live:80/2700250008/8564091079/173088
+http://painelcms.live:80/2700250008/8564091079/16027091
 
 # ===== ESPORTES =====
 #EXTINF:-1 tvg-id="14" tvg-name="SPORTV 1" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/sportv.png" group-title="ESPORTES",SPORTV 1
