@@ -2,66 +2,66 @@
 # ===== GLOBO AMAZONAS=====
 
 #EXTINF:-1 tvg-id="1" tvg-name="GLOBO REDE AMAZONICA" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/globo.png" group-title="CANAIS ABERTOS",GLOBO
-http://172.96.172.124:80/2312712/5616154/16031372.ts
+http://36-769-3-75.sbs:80/2312712/5616154/16031372.ts
 
 # ===== BAND AMAZONAS =====
 
 #EXTINF:-1 tvg-id="2" tvg-name="BAND" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/band.png" group-title="CANAIS ABERTOS",BAND
-http://172.96.172.124:80/2312712/5616154/16024995.ts
+http://36-769-3-75.sbs:80/2312712/5616154/16024995.ts
 
 # ===== SBT AMAZONAS =====
 
 #EXTINF:-1 tvg-id="3" tvg-name="SBT" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/sbt.png" group-title="CANAIS ABERTOS",SBT
-http://172.96.172.124:80/2312712/5616154/16025543.ts
+http://36-769-3-75.sbs:80/2312712/5616154/16025543.ts
 
 # ===== RECORD AMAZONAS =====
 #EXTINF:-1 tvg-id="4" tvg-name="RECORD" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/record.png" group-title="CANAIS ABERTOS",RECORD
-http://172.96.172.124:80/2312712/5616154/16025493.ts
+http://36-769-3-75.sbs:80/2312712/5616154/16025493.ts
 
 # ===== REDE TV =====
 #EXTINF:-1 tvg-id="5" tvg-name="REDE TV" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/rede-tv.png" group-title="CANAIS ABERTOS",REDE TV
-http://172.96.172.124:80/2312712/5616154/16027092.ts
+http://36-769-3-75.sbs:80/2312712/5616154/21387735.ts
 
 
 # ===== ESPORTES =====
 #EXTINF:-1 tvg-id="6" tvg-name="SPORTV 1" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/sportv.png" group-title="ESPORTES",SPORTV 1
-http://elitedns.xyz:80/2312712/5616154/16031465.ts
+http://36-769-3-75.sbs:80/2312712/5616154/16031465.ts
 
 #EXTINF:-1 tvg-id="7" tvg-name="SPORTV 2" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/sportv2.png" group-title="ESPORTES",SPORTV 2
-http://172.96.172.124:80/2312712/5616154/16031467.ts
+http://36-769-3-75.sbs:80/2312712/5616154/16031467.ts
 
 #EXTINF:-1 tvg-id="8" tvg-name="SPORTV 3" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/sportv3.png" group-title="ESPORTES",SPORTV 3
-http://172.96.172.124:80/2312712/5616154/16031469.ts
+http://36-769-3-75.sbs:80/2312712/5616154/16031469.ts
 
 #EXTINF:-1 tvg-id="9" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/espn.png" group-title="ESPN",ESPN
-http://172.96.172.124:80/2312712/5616154/16025108.ts
+http://36-769-3-75.sbs:80/2312712/5616154/16025108.ts
 
 #EXTINF:-1 tvg-id="10" tvg-name="PREMIERE CLUBES" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/premiere.png" group-title="PREMIERE",PREMIERE CLUBES
-http://172.96.172.124:80/2312712/5616154/16025452.ts
+http://36-769-3-75.sbs:80/2312712/5616154/21387730.ts
 
 #EXTINF:-1 tvg-id="18" tvg-name="COMBATE" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/combate.png" group-title="ESPORTES",COMBATE
-http://172.96.172.124:80/2312712/5616154/16025045.ts
+http://36-769-3-75.sbs:80/2312712/5616154/18092835.ts
 
 #EXTINF:-1 tvg-id="19" tvg-name="UFC FIGHT PASS" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/ufc.png" group-title="PPV LUTAS",UFC FIGHT PASS
-http://172.96.172.124:80/2312712/5616154/16027040.ts
+http://36-769-3-75.sbs:80/2312712/5616154/18092843.ts
 
 
 # ===== NOTICIAS =====
 #EXTINF:-1 tvg-id="20" tvg-name="GLOBO NEWS" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/globo-news.png" group-title="NOTICIAS",GLOBO NEWS
-http://172.96.172.124:80/2312712/5616154/16025174.ts
+http://36-769-3-75.sbs:80/2312712/5616154/16025174.ts
 
 #EXTINF:-1 tvg-id="21" tvg-name="CNN BRASIL" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/cnn.png" group-title="NOTICIAS",CNN BRASIL
-http://172.96.172.124:80/2312712/5616154/16025039.ts
+http://36-769-3-75.sbs:80/2312712/5616154/16025039.ts
 
 #EXTINF:-1 tvg-id="22" tvg-name="BAND NEWS" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/band-news.png" group-title="NOTICIAS",BAND NEWS
-http://172.96.172.124:80/2312712/5616154/16024986.ts
+http://36-769-3-75.sbs:80/2312712/5616154/16024986.ts
 
 #EXTINF:-1 tvg-id="23" tvg-name="RECORD NEWS" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/record-news.png" group-title="NOTICIAS",RECORD NEWS
-http://172.96.172.124:80/2312712/5616154/16025479.ts
+http://36-769-3-75.sbs:80/2312712/5616154/16025479.ts
 
 # ===== HBO =====
 #EXTINF:-1 tvg-id="24" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/hbo.png" group-title="HBO",HBO
-http://36-769-3-75.sbs:80/2312712/5616154/16025328.ts
+http://36-769-3-75.sbs:80/2312712/5616154/.ts
 
 # ===== FILMES E SERIES =====
 #EXTINF:-1 tvg-id="25" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/tnt.png" group-title="FILMES E SERIES",TNT
