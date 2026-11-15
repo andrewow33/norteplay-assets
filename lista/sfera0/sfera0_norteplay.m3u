@@ -24,7 +24,7 @@ http://153.75.231.236:80/942300066/227842980/984493.ts
 http://153.75.231.236:80/942300066/227842980/984495.ts
 
 #EXTINF:-1 tvg-id="8" tvg-name="FORMAN" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/forman.png" group-title="XXX: CANAIS ADULTOS",FORMAN
-http://38.46.223.77:80/play/G0Db2K3DGwbok3r6QFhH3HCgHPoogiNK_2yer0C26yQ
+http://live.adultiptv.net/gay.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="BRASILBIMBOS" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/brasilbimbos.png" group-title="XXX: CANAIS ADULTOS",BRASILBIMBOS
 http://153.75.231.236:80/942300066/227842980/984514.ts
@@ -42,7 +42,7 @@ http://153.75.231.236:80/942300066/227842980/979884.ts
 # ===== SBT AMAZONAS =====
 
 #EXTINF:-1 tvg-id="12" tvg-name="SBT" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/sbt.png" group-title="CANAIS ABERTOS",SBT
-http://153.75.231.236:80/942300066/227842980/884079.ts
+http://153.75.231.236:80/942300066/227842980/215154.ts
 
 # ===== RECORD AMAZONAS =====
 #EXTINF:-1 tvg-id="13" tvg-name="RECORD" tvg-logo="https://raw.githubusercontent.com/andrewow33/norteplay-assets/main/logos/canais/record.png" group-title="CANAIS ABERTOS",RECORD
